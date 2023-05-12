@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VerifyMe</string>
+    <string name="hint_phone_no">Phone number</string>
+    <string name="button_verify">Verify</string>
+    <string name="otp_receive_img">OTP Receive</string>
+    <string name="enter_the_otp_sent_to_txt">Enter the otp sent to</string>
+    <string name="otp_number">+91-9999999999</string>
+    <string name="otp_code">0000</string>
+    <string name="otp_cardview">OTP cardView</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="submit_button">submit</string>
+    <string name="otp_send_img">OTP send</string>
+    <string name="login_using_txt">Login using</string>
+    <string name="phone_number_txt">phone number</string>
+    <string name="sign_out_btn">sign out</string>
+</resources>
